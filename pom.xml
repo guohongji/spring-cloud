@@ -14,5 +14,9 @@
         <module>ribbon-service</module>
         <module>user-service</module>
         <module>hystrix-service</module>
+        <module>hystrix-dashboard</module>
+        <module>feign-service</module>
+        <module>consul-ribbon-service</module>
+        <module>consul-user-service</module>
     </modules>
 </project>

@@ -11,5 +11,7 @@ public interface UserService {
     public Object getDefaultUser(@PathVariable Long id);
 
 
+    Object getUserCache(Long id);
 
+    Object removeCache(Long id);
 }
